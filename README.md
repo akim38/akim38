@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## 📖 About Me
 - 🕸️ Full-stack software developer
-- 🌱🎓 Graduated from University of the Pacific in 2019 with a PharmD, current student at App Academy
+- 🌱 Current student at App Academy
 - 🔭 I’m currently working on my final capstone project for App Academy as well as preparing to start my job search!
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/aletheia-kim-47086922a/" target="_blank">My LinkedIn!</a>
 - 😄 Pronouns: she/her
